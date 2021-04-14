@@ -4,3 +4,4 @@ gensim==4.0.1
 python-Levenshtein==0.12.2
 tqdm==4.41.1
 matplotlib==3.2.2
+kneed==0.7.0
